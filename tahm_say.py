@@ -1,0 +1,1 @@
+#kelimeyi belirtilen kez göster
